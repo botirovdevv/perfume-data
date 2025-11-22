@@ -1,10 +1,11 @@
 [
   {
-    "id": 1,
-    "name": "Dior Sauvage",
-    "price": 120,
-    "image": "https://example.com/dior.jpg"
-  },
+  "id": 1,
+  "name": "Odini bilmiman",
+  "price": 120,
+  "gender": "male",
+  "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763793712/01K1DAGVNF74F9B32YY6D2R03X_nre3jn.png"
+}
   {
     "id": 2,
     "name": "Bleu de Chanel",
