@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Dior Sauvage",
+    "price": 120,
+    "image": "https://example.com/dior.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bleu de Chanel",
+    "price": 150,
+    "image": "https://example.com/chanel.jpg"
+  }
+]
