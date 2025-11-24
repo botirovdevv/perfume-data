@@ -18,7 +18,7 @@
     "id": 3,
     "name": "Carolina Girl",
     "price": 13,
-    "gender": "Ayollar",
+    "gender": "ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988326/IMG_2014_ifocbn.jpg"
   },
 
@@ -50,7 +50,7 @@
     "id": 7,
     "name": "Bvlgary Aqua",
     "price": 15,
-    "gender": "Erkaklar",
+    "gender": "erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988792/IMG_2022_mxrpwe.jpg"
   },
 
@@ -66,7 +66,7 @@
     "id": 9,
     "name": "Hermes 24",
     "price": 16,
-    "gender": "Ayollar",
+    "gender": "ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997621/IMG_2023_eidbua.jpg"
   },
 
@@ -74,7 +74,7 @@
     "id": 10,
     "name": "Libre Santal",
     "price": 18,
-    "gender": "Ayollar",
+    "gender": "ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997745/IMG_2024_mfmmro.jpg"
   },
 
@@ -98,7 +98,7 @@
     "id": 13,
     "name": "Channel fresh",
     "price": 20,
-    "gender": "Ayollar",
+    "gender": "ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763998042/IMG_2027_y7erny.jpg"
   }
 ]
