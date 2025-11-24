@@ -1,15 +1,64 @@
 [
   {
   "id": 1,
-  "name": "Odini bilmiman",
-  "price": 120,
-  "gender": "male",
-  "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763793712/01K1DAGVNF74F9B32YY6D2R03X_nre3jn.png"
+  "name": "Jean Paul",
+  "price": 4,
+  "gender": "uni",
+  "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763987931/IMG_2016_ehe9tc.jpg"
 }
   {
     "id": 2,
-    "name": "Bleu de Chanel",
-    "price": 150,
-    "image": "https://example.com/chanel.jpg"
-  }
+    "name": "TF Lost Cherry",
+    "price": 13,
+    "gender": "uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988140/IMG_2015_nkj1n3.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Carolina Girl",
+    "price": 13,
+    "gender": "female",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988326/IMG_2014_ifocbn.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Paco Rabanne",
+    "price": 16,
+    "gender": "uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988404/IMG_2017_lombdr.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Roja elysin",
+    "price": 20,
+    "gender": "uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988578/IMG_2018_jmcbfo.jpg"
+  },
+
+   {
+    "id": 6,
+    "name": "Ganymade",
+    "price": 15,
+    "gender": "uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988717/IMG_2019_njjt3s.jpg"
+  },
+
+   {
+    "id": 7,
+    "name": "Bvlgary Aqua",
+    "price": 15,
+    "gender": "men",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988792/IMG_2022_mxrpwe.jpg"
+  },
+
+   {
+    "id": 8,
+    "name": "Bvlgary Tygar",
+    "price": 15,
+    "gender": "men",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763989009/IMG_2021_mvrznj.jpg"
+  },
 ]
