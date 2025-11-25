@@ -56,6 +56,14 @@
 
    {
     "id": 8,
+    "name": "Bvlgary Tygar",
+    "price": 15,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763989009/IMG_2021_mvrznj.jpg"
+  },
+
+   {
+    "id": 9,
     "name": "Marc Tilia",
     "price": 17,
     "gender": "Uni",
@@ -63,7 +71,7 @@
   },
 
   {
-    "id": 9,
+    "id": 10,
     "name": "Hermes 24",
     "price": 16,
     "gender": "Ayollar",
@@ -71,7 +79,7 @@
   },
 
   {
-    "id": 10,
+    "id": 11,
     "name": "Libre Santal",
     "price": 18,
     "gender": "Ayollar",
@@ -79,7 +87,7 @@
   },
 
   {
-    "id": 11,
+    "id": 12,
     "name": "Moncera Red Tb",
     "price": 21,
     "gender": "Uni",
@@ -87,7 +95,7 @@
   },
 
   {
-    "id": 12,
+    "id": 13,
     "name": "Kirke",
     "price": 13,
     "gender": "Uni",
@@ -95,10 +103,203 @@
   },
 
   {
-    "id": 13,
+    "id": 14,
     "name": "Channel fresh",
     "price": 20,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763998042/IMG_2027_y7erny.jpg"
-  }
+  },
+
+  {
+    "id": 15,
+    "name": "Channel Coco",
+    "price": 20,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060056/IMG_2026_edkzor.jpg"
+  },
+
+   {
+    "id": 16,
+    "name": "Black Afgano",
+    "price": 20,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060196/IMG_2031_ghvepe.jpg"
+  },
+
+   {
+    "id": 17,
+    "name": "Bois Imperial",
+    "price": 13,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060196/IMG_2031_ghvepe.jpg"
+  },
+
+  {
+    "id": 18,
+    "name": "Begamote 22",
+    "price": 11,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060325/IMG_2029_tahx1j.jpg"
+  },
+
+    {
+    "id": 19,
+    "name": "Dior Homme",
+    "price": 10,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060437/IMG_2032_kvkfuv.jpg"
+  },
+
+  {
+    "id": 20,
+    "name": "Gypsy Water",
+    "price": 13,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060546/IMG_2033_lwcwuy.jpg"
+  },
+
+  {
+    "id": 21,
+    "name": "Stronger with YOU",
+    "price": 18,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060660/IMG_2034_ya1fxw.jpg"
+  },
+
+   {
+    "id": 22,
+    "name": "Lacoste Sport",
+    "price": 13,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060807/IMG_2037_nufun3.jpg"
+  },
+
+  {
+    "id": 23,
+    "name": "Mojave Ghost",
+    "price": 12,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060901/IMG_2036_i3qtfj.jpg"
+  },
+
+  {
+    "id": 24,
+    "name": "Sauvage Dior",
+    "price": 13,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060993/IMG_2035_cagmti.jpg"
+  },
+
+  {
+    "id": 25,
+    "name": "Creed Aventus",
+    "price": 13,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061117/IMG_2038_xzotdz.jpg"
+  },
+
+  {
+    "id": 26,
+    "name": "LV Imagination",
+    "price": 22,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg"
+  },
+
+  {
+    "id": 27,
+    "name": "LV Symphony",
+    "price": 22,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061436/IMG_2040_g4cbjg.jpg"
+  },
+
+  {
+    "id": 28,
+    "name": "LV Afternoon",
+    "price": 22,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061450/IMG_2043_u2jm8t.jpg"
+  },
+
+  {
+    "id": 29,
+    "name": "LV Limmensite",
+    "price": 22,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061602/IMG_2042_xhbpqi.jpg"
+  },
+
+  {
+    "id": 30,
+    "name": "LV Pacific Chill",
+    "price": 18,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061849/LV-p-chill_acd6jv.avif"
+  },
+
+  {
+    "id": 31,
+    "name": "LV Imagination",
+    "price": 22,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg"
+  },
+
+  {
+    "id": 32,
+    "name": "Miss Dior",
+    "price": 18,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061900/IMG_2045_iua1wr.jpg"
+  },
+
+  {
+    "id": 33,
+    "name": "Limperatrice",
+    "price": 12,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062003/IMG_2044_db7flj.jpg"
+  },
+
+  {
+    "id": 34,
+    "name": "Moschino Funny",
+    "price": 12,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062064/IMG_2046_izscht.jpg"
+  },
+
+  {
+    "id": 35,
+    "name": "My Way",
+    "price": 23,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062188/IMG_2050_ijzb2o.jpg"
+  },
+
+  {
+    "id": 36,
+    "name": "Versace Crystal",
+    "price": 13,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062244/IMG_2049_xsire7.jpg"
+  },
+
+  {
+    "id": 37,
+    "name": "VS Bombshell",
+    "price": 13,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062348/IMG_2048_zuwrp8.jpg"
+  },
+
+  {
+    "id": 38,
+    "name": "Calvin Klein",
+    "price": 14,
+    "gender": "Ayollar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062363/IMG_2047_rcszsh.jpg"
+  },
+   
 ]
