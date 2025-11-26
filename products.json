@@ -37,7 +37,7 @@
   {
     "id": 6,
     "name": "Ganymade",
-    "price": 15,
+    "price": 17,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988717/IMG_2019_njjt3s.jpg"
   },
@@ -211,55 +211,48 @@
   },
   {
     "id": 31,
-    "name": "LV Imagination",
-    "price": 22,
-    "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg"
-  },
-  {
-    "id": 32,
     "name": "Miss Dior",
     "price": 18,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061900/IMG_2045_iua1wr.jpg"
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "Limperatrice",
     "price": 12,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062003/IMG_2044_db7flj.jpg"
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "Moschino Funny",
     "price": 12,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062064/IMG_2046_izscht.jpg"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "My Way",
     "price": 23,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062188/IMG_2050_ijzb2o.jpg"
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "Versace Crystal",
     "price": 13,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062244/IMG_2049_xsire7.jpg"
   },
   {
-    "id": 37,
+    "id": 36,
     "name": "VS Bombshell",
     "price": 13,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062348/IMG_2048_zuwrp8.jpg"
   },
   {
-    "id": 38,
+    "id": 37,
     "name": "Calvin Klein",
     "price": 14,
     "gender": "Ayollar",
