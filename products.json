@@ -257,5 +257,13 @@
     "price": 14,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062363/IMG_2047_rcszsh.jpg"
+  },
+
+  {
+    "id": 37,
+    "name": "Ombre Nomade",
+    "price": 38,
+    "gender": "Erkaklar",
+    "image": "https://ibb.co/FLwxxP92"
   }
 ]
