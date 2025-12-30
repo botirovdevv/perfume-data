@@ -5,7 +5,8 @@
     "price": 4,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763987931/IMG_2016_ehe9tc.jpg",
-    "description": "Yalpiz, vanil va lavandaning o‘ziga xos jozibali uyg‘unligi."
+    "description": "Yalpiz, vanil va lavandaning o‘ziga xos jozibali uyg‘unligi.",
+    "grade": "Top"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "price": 13,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988140/IMG_2015_nkj1n3.jpg",
-    "description": "Pishgan olcha, bodom va likyorning shirin hamda mast qiluvchi hashamatli hidi."
+    "description": "Pishgan olcha, bodom va likyorning shirin hamda mast qiluvchi hashamatli hidi.",
+    "grade": "Top"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "price": 13,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988326/IMG_2014_ifocbn.jpg",
-    "description": "Yasemin va kakao notalariga ega, sirli va o‘ta ayollik ifori."
+    "description": "Yasemin va kakao notalariga ega, sirli va o‘ta ayollik ifori.",
+    "grade": "Top"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "price": 16,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988404/IMG_2017_lombdr.jpg",
-    "description": "Dolchin, charm va sitrus notalari aralashgan boylik va muvaffaqiyat hidi."
+    "description": "Dolchin, charm va sitrus notalari aralashgan boylik va muvaffaqiyat hidi.",
+    "grade": "Top"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "price": 20,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988578/IMG_2018_jmcbfo.jpg",
-    "description": "Vetiver va sitruslarning yorqin portlashi — haqiqiy jannat ifori."
+    "description": "Vetiver va sitruslarning yorqin portlashi — haqiqiy jannat ifori.",
+    "grade": "Top"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "price": 17,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988717/IMG_2019_njjt3s.jpg",
-    "description": "Mineral, zamsh va o‘tkir yog‘ochli notalarga ega, boshqalarga o‘xshamaydigan kosmik ifor."
+    "description": "Mineral, zamsh va o‘tkir yog‘ochli notalarga ega, boshqalarga o‘xshamaydigan kosmik ifor.",
+    "grade": "Top"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "price": 15,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988792/IMG_2022_mxrpwe.jpg",
-    "description": "Dengiz shabadasi va suv o‘tlarining tetiklantiruvchi va chuqur hidi."
+    "description": "Dengiz shabadasi va suv o‘tlarining tetiklantiruvchi va chuqur hidi.",
+    "grade": "Top"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "price": 15,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763989009/IMG_2021_mvrznj.jpg",
-    "description": "Greypfrut va ambroksanning kuchli energiyasi, yo‘lbarsdek shiddatli."
+    "description": "Greypfrut va ambroksanning kuchli energiyasi, yo‘lbarsdek shiddatli.",
+    "grade": "Top"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "price": 17,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997450/IMG_2020_vrgegr.png",
-    "description": "Jo‘ka guli va asalning quyoshli va iliq tarovati."
+    "description": "Jo‘ka guli va asalning quyoshli va iliq tarovati.",
+    "grade": "Top"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "price": 16,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997621/IMG_2023_eidbua.jpg",
-    "description": "Metallik, mavrak va nargis gullarining zamonaviy va toza aralashmasi."
+    "description": "Metallik, mavrak va nargis gullarining zamonaviy va toza aralashmasi.",
+    "grade": "Top"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "price": 18,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997745/IMG_2024_mfmmro.jpg",
-    "description": "Fransuz lavandasi va Marokash apelsin gulining ozodlik baxsh etuvchi hidi."
+    "description": "Fransuz lavandasi va Marokash apelsin gulining ozodlik baxsh etuvchi hidi.",
+    "grade": "Top"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "price": 21,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997878/IMG_2025_w1xlzd.jpg",
-    "description": "Tamaki, dolchin va udning juda kuchli, issiq va o‘ta turg‘un ifori."
+    "description": "Tamaki, dolchin va udning juda kuchli, issiq va o‘ta turg‘un ifori.",
+    "grade": "Top"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "price": 13,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997968/IMG_2028_uitc5i.jpg",
-    "description": "Marakuya, shaftoli va nokning ekzotik va shirin mevalli portlashi."
+    "description": "Marakuya, shaftoli va nokning ekzotik va shirin mevalli portlashi.",
+    "grade": "Top"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "price": 20,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763998042/IMG_2027_y7erny.jpg",
-    "description": "Yashil, sitrusli va yog‘ochli notalarning yengil va baxtli shabadasi."
+    "description": "Yashil, sitrusli va yog‘ochli notalarning yengil va baxtli shabadasi.",
+    "grade": "Top"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "price": 20,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060056/IMG_2026_edkzor.jpg",
-    "description": "Apelsin, atirgul va pachulining klassik, nafis va boy ifori."
+    "description": "Apelsin, atirgul va pachulining klassik, nafis va boy ifori.",
+    "grade": "Top"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "price": 20,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060196/IMG_2031_ghvepe.jpg",
-    "description": "Tutun, qahva va udning sirli, qorong‘u va o‘ta kuchli hidi."
+    "description": "Tutun, qahva va udning sirli, qorong‘u va o‘ta kuchli hidi.",
+    "grade": "Top"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "price": 13,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060249/IMG_2030_cqakvl.png",
-    "description": "Akigalawood va vetiverning yangi, yog‘ochli va magnitdek tortuvchi ifori."
+    "description": "Akigalawood va vetiverning yangi, yog‘ochli va magnitdek tortuvchi ifori.",
+    "grade": "Top"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "price": 11,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060325/IMG_2029_tahx1j.jpg",
-    "description": "Bergamotning achchiq va toza sersuv hidi, yoz uchun ideal."
+    "description": "Bergamotning achchiq va toza sersuv hidi, yoz uchun ideal.",
+    "grade": "Top"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "price": 10,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060437/IMG_2032_kvkfuv.jpg",
-    "description": "Iris guli va kakaoning kukunli, hashamatli va oqshom uchun mos hidi."
+    "description": "Iris guli va kakaoning kukunli, hashamatli va oqshom uchun mos hidi.",
+    "grade": "Top"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "price": 13,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060546/IMG_2033_lwcwuy.jpg",
-    "description": "Archa, limon va vanilning yengil, erkinlik va tabiat ifori."
+    "description": "Archa, limon va vanilning yengil, erkinlik va tabiat ifori.",
+    "grade": "Top"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "price": 18,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060660/IMG_2034_ya1fxw.jpg",
-    "description": "Kashtan va vanilning shirin, issiq va quchoqlovchi hidi."
+    "description": "Kashtan va vanilning shirin, issiq va quchoqlovchi hidi.",
+    "grade": "Top"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "price": 13,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060807/IMG_2037_nufun3.jpg",
-    "description": "Yashil olma va qarag‘ayning energiyaga to‘la sportcha ifori."
+    "description": "Yashil olma va qarag‘ayning energiyaga to‘la sportcha ifori.",
+    "grade": "Top"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "price": 12,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060901/IMG_2036_i3qtfj.jpg",
-    "description": "Sapodilla mevasi va binafshaning shaffof, nafis va sirli hidi."
+    "description": "Sapodilla mevasi va binafshaning shaffof, nafis va sirli hidi.",
+    "grade": "Top"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "price": 13,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060993/IMG_2035_cagmti.jpg",
-    "description": "Bergamot va murchning yovvoyi, o‘tkir va eng mashhur hidi."
+    "description": "Bergamot va murchning yovvoyi, o‘tkir va eng mashhur hidi.",
+    "grade": "Top"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "price": 13,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061117/IMG_2038_xzotdz.jpg",
-    "description": "Ananas, qayin va mushkning qirollarga xos, statusli va kuchli ifori."
+    "description": "Ananas, qayin va mushkning qirollarga xos, statusli va kuchli ifori.",
+    "grade": "Top"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "price": 22,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg",
-    "description": "Qora choy va sitruslarning xayolotni uyg‘otuvchi yengil va toza hidi."
+    "description": "Qora choy va sitruslarning xayolotni uyg‘otuvchi yengil va toza hidi.",
+    "grade": "Top"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "price": 22,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061436/IMG_2040_g4cbjg.jpg",
-    "description": "Greypfrut va zanjabilning yorqin va jarangdor uyg‘unligi."
+    "description": "Greypfrut va zanjabilning yorqin va jarangdor uyg‘unligi.",
+    "grade": "Top"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "price": 22,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061450/IMG_2043_u2jm8t.jpg",
-    "description": "Mandarin va apelsinning xuddi okean to‘lqinidek sersuv va tetik ifori."
+    "description": "Mandarin va apelsinning xuddi okean to‘lqinidek sersuv va tetik ifori.",
+    "grade": "Top"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "price": 22,
     "gender": "Uni",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061602/IMG_2042_xhbpqi.jpg",
-    "description": "Zanjabil va amberning cheksiz va kuchli erkaklarga xos hidi."
+    "description": "Zanjabil va amberning cheksiz va kuchli erkaklarga xos hidi.",
+    "grade": "Top"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "price": 18,
     "gender": "Erkaklar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061849/LV-p-chill_acd6jv.avif",
-    "description": "Qora smorodina, yalpiz va limonning salqinlatuvchi yozgi kokteyli."
+    "description": "Qora smorodina, yalpiz va limonning salqinlatuvchi yozgi kokteyli.",
+    "grade": "Top"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "price": 18,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061900/IMG_2045_iua1wr.jpg",
-    "description": "Pion va atirgulning bahoriy, romantik va nozik guldastasi."
+    "description": "Pion va atirgulning bahoriy, romantik va nozik guldastasi.",
+    "grade": "Top"
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "price": 12,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062003/IMG_2044_db7flj.jpg",
-    "description": "Tarvuz va kivining suvli, shirin va quvnoq hidi."
+    "description": "Tarvuz va kivining suvli, shirin va quvnoq hidi.",
+    "grade": "Top"
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "price": 12,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062064/IMG_2046_izscht.jpg",
-    "description": "Achchiq apelsin va ko‘k choyning kayfiyatni ko‘taruvchi yengil hidi."
+    "description": "Achchiq apelsin va ko‘k choyning kayfiyatni ko‘taruvchi yengil hidi.",
+    "grade": "Top"
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "price": 23,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062188/IMG_2050_ijzb2o.jpg",
-    "description": "Tuberoza va yaseminning yorqin va esda qolarli ayollik ifori."
+    "description": "Tuberoza va yaseminning yorqin va esda qolarli ayollik ifori.",
+    "grade": "Top"
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "price": 13,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062244/IMG_2049_xsire7.jpg",
-    "description": "Anor va muzli akkordlarning toza, shaffof va billurdek jaranglashi."
+    "description": "Anor va muzli akkordlarning toza, shaffof va billurdek jaranglashi.",
+    "grade": "Top"
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "price": 13,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062348/IMG_2048_zuwrp8.jpg",
-    "description": "Marakuya va orxideyaning ehtirosli va jozibador hidi."
+    "description": "Marakuya va orxideyaning ehtirosli va jozibador hidi.",
+    "grade": "Top"
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "price": 14,
     "gender": "Ayollar",
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062363/IMG_2047_rcszsh.jpg",
-    "description": "Anor va qora orxideyaning sirli va oqshomga mos hissiy ifori."
+    "description": "Anor va qora orxideyaning sirli va oqshomga mos hissiy ifori.",
+    "grade": "Top"
   },
   {
     "id": 38,
@@ -301,6 +338,7 @@
     "price": 22,
     "gender": "Erkaklar",
     "image": "https://i.ibb.co/VWqpB8RR/d78z-Bd-Eta5-Nn-FL2cw-Y8k4-MR1s-YSP0-CKD4fpafdx-JX2-VXTdx-JVjc1w-QMgv4id.jpg",
-    "description": "Ud va malinaning hashamatli, quyuq va shleyfli qirollik ifori."
+    "description": "Ud va malinaning hashamatli, quyuq va shleyfli qirollik ifori.",
+    "grade": "Top"
   }
 ]
