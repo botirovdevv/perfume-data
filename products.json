@@ -350,5 +350,55 @@
     "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg",
     "description": "Qora choy va sitruslarning xayolotni uyg‘otuvchi yengil va toza hidi.",
     "grade": "Premium"
+  },
+
+   {
+    "id": 39,
+    "name": "Bvlgari Tygar",
+    "price": 30,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763989009/IMG_2021_mvrznj.jpg",
+    "description": "Greypfrut va ambroksanning kuchli energiyasi, yo‘lbarsdek shiddatli.",
+    "grade": "Premium"
+  },
+
+  {
+    "id": 40,
+    "name": "Creed Aventus",
+    "price": 25,
+    "gender": "Uni",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061117/IMG_2038_xzotdz.jpg",
+    "description": "Ananas, qayin va mushkning qirollarga xos, statusli va kuchli ifori.",
+    "grade": "Premium"
+  },
+
+  {
+    "id": 41,
+    "name": "Sospiro erba pura",
+    "price": 15,
+    "gender": "Uni",
+    "image": "https://i.ibb.co/tMz4vZNW/sospiro.webp",
+    "description": "citrus (apelsin, bergamot, limon) iforlari",
+    "grade": "Top"
+  },
+
+    {
+    "id": 42,
+    "name": "De marly Layton",
+    "price": 20,
+    "gender": "Uni",
+    "image": "https://i.ibb.co/W4dDzMdP/demarly.webp",
+    "description": "olma, lavanda va bergamod iforlari",
+    "grade": "Top"
+  },
+
+   {
+    "id": 43,
+    "name": "Molecule 020",
+    "price": 15,
+    "gender": "Uni",
+    "image": "https://i.ibb.co/W4dDzMdP/demarly.webp",
+    "description": "u sof, shaffof va zamonaviy hid beradi",
+    "grade": "Top"
   }
 ]
