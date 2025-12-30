@@ -1,269 +1,306 @@
 [
   {
     "id": 1,
-    "name": "Jean Paul",
+    "name": "Jean Paul Gaultier",
     "price": 4,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763987931/IMG_2016_ehe9tc.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763987931/IMG_2016_ehe9tc.jpg",
+    "description": "Yalpiz, vanil va lavandaning o‘ziga xos jozibali uyg‘unligi."
   },
   {
     "id": 2,
-    "name": "TF Lost Cherry",
+    "name": "Tom Ford Lost Cherry",
     "price": 13,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988140/IMG_2015_nkj1n3.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988140/IMG_2015_nkj1n3.jpg",
+    "description": "Pishgan olcha, bodom va likyorning shirin hamda mast qiluvchi hashamatli hidi."
   },
   {
     "id": 3,
-    "name": "Carolina Girl",
+    "name": "Carolina Herrera Good Girl",
     "price": 13,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988326/IMG_2014_ifocbn.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988326/IMG_2014_ifocbn.jpg",
+    "description": "Yasemin va kakao notalariga ega, sirli va o‘ta ayollik ifori."
   },
   {
     "id": 4,
-    "name": "Paco Rabanne",
+    "name": "Paco Rabanne 1 Million",
     "price": 16,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988404/IMG_2017_lombdr.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988404/IMG_2017_lombdr.jpg",
+    "description": "Dolchin, charm va sitrus notalari aralashgan boylik va muvaffaqiyat hidi."
   },
   {
     "id": 5,
-    "name": "Roja elysin",
+    "name": "Roja Elysium",
     "price": 20,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988578/IMG_2018_jmcbfo.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988578/IMG_2018_jmcbfo.jpg",
+    "description": "Vetiver va sitruslarning yorqin portlashi — haqiqiy jannat ifori."
   },
   {
     "id": 6,
-    "name": "Ganymade",
+    "name": "Ganymede",
     "price": 17,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988717/IMG_2019_njjt3s.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988717/IMG_2019_njjt3s.jpg",
+    "description": "Mineral, zamsh va o‘tkir yog‘ochli notalarga ega, boshqalarga o‘xshamaydigan kosmik ifor."
   },
   {
     "id": 7,
-    "name": "Bvlgary Aqua",
+    "name": "Bvlgari Aqva",
     "price": 15,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988792/IMG_2022_mxrpwe.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763988792/IMG_2022_mxrpwe.jpg",
+    "description": "Dengiz shabadasi va suv o‘tlarining tetiklantiruvchi va chuqur hidi."
   },
   {
     "id": 8,
-    "name": "Bvlgary Tygar",
+    "name": "Bvlgari Tygar",
     "price": 15,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763989009/IMG_2021_mvrznj.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763989009/IMG_2021_mvrznj.jpg",
+    "description": "Greypfrut va ambroksanning kuchli energiyasi, yo‘lbarsdek shiddatli."
   },
   {
     "id": 9,
-    "name": "Marc Tilia",
+    "name": "Marc-Antoine Tilia",
     "price": 17,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997450/IMG_2020_vrgegr.png"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997450/IMG_2020_vrgegr.png",
+    "description": "Jo‘ka guli va asalning quyoshli va iliq tarovati."
   },
   {
     "id": 10,
-    "name": "Hermes 24",
+    "name": "Hermès H24",
     "price": 16,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997621/IMG_2023_eidbua.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997621/IMG_2023_eidbua.jpg",
+    "description": "Metallik, mavrak va nargis gullarining zamonaviy va toza aralashmasi."
   },
   {
     "id": 11,
-    "name": "Libre Santal",
+    "name": "YSL Libre",
     "price": 18,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997745/IMG_2024_mfmmro.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997745/IMG_2024_mfmmro.jpg",
+    "description": "Fransuz lavandasi va Marokash apelsin gulining ozodlik baxsh etuvchi hidi."
   },
   {
     "id": 12,
-    "name": "Moncera Red Tb",
+    "name": "Mancera Red Tobacco",
     "price": 21,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997878/IMG_2025_w1xlzd.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997878/IMG_2025_w1xlzd.jpg",
+    "description": "Tamaki, dolchin va udning juda kuchli, issiq va o‘ta turg‘un ifori."
   },
   {
     "id": 13,
-    "name": "Kirke",
+    "name": "Tiziana Terenzi Kirke",
     "price": 13,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997968/IMG_2028_uitc5i.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763997968/IMG_2028_uitc5i.jpg",
+    "description": "Marakuya, shaftoli va nokning ekzotik va shirin mevalli portlashi."
   },
   {
     "id": 14,
-    "name": "Channel fresh",
+    "name": "Chanel Chance Eau Fraiche",
     "price": 20,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763998042/IMG_2027_y7erny.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1763998042/IMG_2027_y7erny.jpg",
+    "description": "Yashil, sitrusli va yog‘ochli notalarning yengil va baxtli shabadasi."
   },
   {
     "id": 15,
-    "name": "Channel Coco",
+    "name": "Chanel Coco Mademoiselle",
     "price": 20,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060056/IMG_2026_edkzor.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060056/IMG_2026_edkzor.jpg",
+    "description": "Apelsin, atirgul va pachulining klassik, nafis va boy ifori."
   },
   {
     "id": 16,
-    "name": "Black Afgano",
+    "name": "Nasomatto Black Afgano",
     "price": 20,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060196/IMG_2031_ghvepe.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060196/IMG_2031_ghvepe.jpg",
+    "description": "Tutun, qahva va udning sirli, qorong‘u va o‘ta kuchli hidi."
   },
   {
     "id": 17,
-    "name": "Bois Imperial",
+    "name": "Bois Impérial",
     "price": 13,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060249/IMG_2030_cqakvl.png"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060249/IMG_2030_cqakvl.png",
+    "description": "Akigalawood va vetiverning yangi, yog‘ochli va magnitdek tortuvchi ifori."
   },
   {
     "id": 18,
-    "name": "Begamote 22",
+    "name": "Le Labo Bergamote 22",
     "price": 11,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060325/IMG_2029_tahx1j.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060325/IMG_2029_tahx1j.jpg",
+    "description": "Bergamotning achchiq va toza sersuv hidi, yoz uchun ideal."
   },
   {
     "id": 19,
-    "name": "Dior Homme",
+    "name": "Dior Homme Intense",
     "price": 10,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060437/IMG_2032_kvkfuv.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060437/IMG_2032_kvkfuv.jpg",
+    "description": "Iris guli va kakaoning kukunli, hashamatli va oqshom uchun mos hidi."
   },
   {
     "id": 20,
-    "name": "Gypsy Water",
+    "name": "Byredo Gypsy Water",
     "price": 13,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060546/IMG_2033_lwcwuy.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060546/IMG_2033_lwcwuy.jpg",
+    "description": "Archa, limon va vanilning yengil, erkinlik va tabiat ifori."
   },
   {
     "id": 21,
-    "name": "Stronger with YOU",
+    "name": "Armani Stronger With You",
     "price": 18,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060660/IMG_2034_ya1fxw.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060660/IMG_2034_ya1fxw.jpg",
+    "description": "Kashtan va vanilning shirin, issiq va quchoqlovchi hidi."
   },
   {
     "id": 22,
     "name": "Lacoste Sport",
     "price": 13,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060807/IMG_2037_nufun3.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060807/IMG_2037_nufun3.jpg",
+    "description": "Yashil olma va qarag‘ayning energiyaga to‘la sportcha ifori."
   },
   {
     "id": 23,
-    "name": "Mojave Ghost",
+    "name": "Byredo Mojave Ghost",
     "price": 12,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060901/IMG_2036_i3qtfj.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060901/IMG_2036_i3qtfj.jpg",
+    "description": "Sapodilla mevasi va binafshaning shaffof, nafis va sirli hidi."
   },
   {
     "id": 24,
-    "name": "Sauvage Dior",
+    "name": "Dior Sauvage",
     "price": 13,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060993/IMG_2035_cagmti.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764060993/IMG_2035_cagmti.jpg",
+    "description": "Bergamot va murchning yovvoyi, o‘tkir va eng mashhur hidi."
   },
   {
     "id": 25,
     "name": "Creed Aventus",
     "price": 13,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061117/IMG_2038_xzotdz.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061117/IMG_2038_xzotdz.jpg",
+    "description": "Ananas, qayin va mushkning qirollarga xos, statusli va kuchli ifori."
   },
   {
     "id": 26,
     "name": "LV Imagination",
     "price": 22,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg",
+    "description": "Qora choy va sitruslarning xayolotni uyg‘otuvchi yengil va toza hidi."
   },
   {
     "id": 27,
     "name": "LV Symphony",
     "price": 22,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061436/IMG_2040_g4cbjg.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061436/IMG_2040_g4cbjg.jpg",
+    "description": "Greypfrut va zanjabilning yorqin va jarangdor uyg‘unligi."
   },
   {
     "id": 28,
-    "name": "LV Afternoon",
+    "name": "LV Afternoon Swim",
     "price": 22,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061450/IMG_2043_u2jm8t.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061450/IMG_2043_u2jm8t.jpg",
+    "description": "Mandarin va apelsinning xuddi okean to‘lqinidek sersuv va tetik ifori."
   },
   {
     "id": 29,
-    "name": "LV Limmensite",
+    "name": "LV L'Immensité",
     "price": 22,
     "gender": "Uni",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061602/IMG_2042_xhbpqi.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061602/IMG_2042_xhbpqi.jpg",
+    "description": "Zanjabil va amberning cheksiz va kuchli erkaklarga xos hidi."
   },
   {
     "id": 30,
     "name": "LV Pacific Chill",
     "price": 18,
     "gender": "Erkaklar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061849/LV-p-chill_acd6jv.avif"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061849/LV-p-chill_acd6jv.avif",
+    "description": "Qora smorodina, yalpiz va limonning salqinlatuvchi yozgi kokteyli."
   },
   {
     "id": 31,
-    "name": "Miss Dior",
+    "name": "Miss Dior Blooming",
     "price": 18,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061900/IMG_2045_iua1wr.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061900/IMG_2045_iua1wr.jpg",
+    "description": "Pion va atirgulning bahoriy, romantik va nozik guldastasi."
   },
   {
     "id": 32,
-    "name": "Limperatrice",
+    "name": "D&G L'Imperatrice",
     "price": 12,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062003/IMG_2044_db7flj.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062003/IMG_2044_db7flj.jpg",
+    "description": "Tarvuz va kivining suvli, shirin va quvnoq hidi."
   },
   {
     "id": 33,
     "name": "Moschino Funny",
     "price": 12,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062064/IMG_2046_izscht.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062064/IMG_2046_izscht.jpg",
+    "description": "Achchiq apelsin va ko‘k choyning kayfiyatni ko‘taruvchi yengil hidi."
   },
   {
     "id": 34,
-    "name": "My Way",
+    "name": "Armani My Way",
     "price": 23,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062188/IMG_2050_ijzb2o.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062188/IMG_2050_ijzb2o.jpg",
+    "description": "Tuberoza va yaseminning yorqin va esda qolarli ayollik ifori."
   },
   {
     "id": 35,
-    "name": "Versace Crystal",
+    "name": "Versace Bright Crystal",
     "price": 13,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062244/IMG_2049_xsire7.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062244/IMG_2049_xsire7.jpg",
+    "description": "Anor va muzli akkordlarning toza, shaffof va billurdek jaranglashi."
   },
   {
     "id": 36,
-    "name": "VS Bombshell",
+    "name": "Victoria's Secret Bombshell",
     "price": 13,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062348/IMG_2048_zuwrp8.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062348/IMG_2048_zuwrp8.jpg",
+    "description": "Marakuya va orxideyaning ehtirosli va jozibador hidi."
   },
   {
     "id": 37,
-    "name": "Calvin Klein",
+    "name": "Calvin Klein Euphoria",
     "price": 14,
     "gender": "Ayollar",
-    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062363/IMG_2047_rcszsh.jpg"
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764062363/IMG_2047_rcszsh.jpg",
+    "description": "Anor va qora orxideyaning sirli va oqshomga mos hissiy ifori."
   },
-
   {
-    "id": 37,
-    "name": "Ombre Nomade",
+    "id": 38,
+    "name": "LV Ombre Nomade",
     "price": 22,
     "gender": "Erkaklar",
-    "image": "https://i.ibb.co/VWqpB8RR/d78z-Bd-Eta5-Nn-FL2cw-Y8k4-MR1s-YSP0-CKD4fpafdx-JX2-VXTdx-JVjc1w-QMgv4id.jpg"
+    "image": "https://i.ibb.co/VWqpB8RR/d78z-Bd-Eta5-Nn-FL2cw-Y8k4-MR1s-YSP0-CKD4fpafdx-JX2-VXTdx-JVjc1w-QMgv4id.jpg",
+    "description": "Ud va malinaning hashamatli, quyuq va shleyfli qirollik ifori."
   }
 ]
