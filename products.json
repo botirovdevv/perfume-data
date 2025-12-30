@@ -340,5 +340,15 @@
     "image": "https://i.ibb.co/VWqpB8RR/d78z-Bd-Eta5-Nn-FL2cw-Y8k4-MR1s-YSP0-CKD4fpafdx-JX2-VXTdx-JVjc1w-QMgv4id.jpg",
     "description": "Ud va malinaning hashamatli, quyuq va shleyfli qirollik ifori.",
     "grade": "Top"
-  }
+  },
+
+   {
+    "id": 38,
+    "name": "LV Imagination",
+    "price": 44,
+    "gender": "Erkaklar",
+    "image": "https://res.cloudinary.com/dxxmpmvtk/image/upload/v1764061225/IMG_2039_ummmox.jpg",
+    "description": "Qora choy va sitruslarning xayolotni uyg‘otuvchi yengil va toza hidi.",
+    "grade": "Premium"
+  },
 ]
